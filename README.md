@@ -8,6 +8,7 @@
     </a>
 </h3>
 
+
 ![Snake animation](https://github.com/ritikbanger/ritikbanger/blob/snake/snake.svg)
 
 ## Event details :
@@ -23,6 +24,7 @@
 ---
 
 ## How can you Join?
+By Following below steps---
 
 ### Step - 1:
 
